@@ -1,0 +1,12 @@
+name: post-office
+version: '${project.version}'
+main: org.peakimo.postoffice.Post_office
+api-version: '1.16'
+commands:
+  post-request:
+    description: request postman!
+    usage: /<command>
+  sendmail:
+    description: Send Mail!
+    usage: /<command>
+

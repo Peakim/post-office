@@ -1,0 +1,3 @@
+## Messages
+post-request: "&f&l[&c&lPost Office&f&l]&r &fYour request has been sent to Post-Office."
+post-receive: "&f&l[&c&lPost Office&f&l]&r &fPlayer %PLAYER% requests a Post-Man! For accept use [/post-request accept (username)]"
